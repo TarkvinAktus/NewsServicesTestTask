@@ -7,7 +7,7 @@ import (
 	"runtime"
 	"time"
 
-	pb "../messages"
+	pb "github.com/TarkvinAktus/NewsServicesTestTask/messages"
 
 	"github.com/go-redis/redis"
 	"github.com/golang/protobuf/proto"

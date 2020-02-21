@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"time"
 
-	pb "../messages"
+	pb "github.com/TarkvinAktus/NewsServicesTestTask/messages"
 
 	"github.com/golang/protobuf/proto"
 	"github.com/nats-io/nats"
